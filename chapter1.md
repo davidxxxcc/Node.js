@@ -22,13 +22,13 @@ node
 process.exit(0) or Ctrl + c
 ```
 
-#### Check the window object
+#### Check the window object in node.js mode
 
 ```
 global
 ```
 
-#### Check the node process
+#### Check the node process in node.js mode
 
 ```
 process
