@@ -1,4 +1,4 @@
 # Node.js
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Node.js is a JavaScript runtime execute in a Chrome V8 engine.
 
