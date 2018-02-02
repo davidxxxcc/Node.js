@@ -6,5 +6,9 @@ Chrome V8 engine is a** open source JavaScript engine** written in C++ that exec
 
 Node.js uses an **event-driven**, **non-blocking I/O** model that makes it lightweight and effiecient.
 
-Non-blocking I/O: 
+Non-blocking I/O:
+
+* Blocking: white we are fetching from the database which it's I/O operation, our application cannot do anything else.
+
+
 
