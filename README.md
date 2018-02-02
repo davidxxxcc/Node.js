@@ -11,5 +11,5 @@ Non-blocking I/O:
 * Blocking: while we are fetching from the database which it's I/O operation, our application cannot do anything else. This means our machine sit around waiting and even cannot do something simple like add number or printing.
 * Non-blocking I/O: we are not waiting for a I/O operation, we simpy kick off a event loop with only single thread.
 
-![](/assets/Non-blocking)
+Node.js' package ecosystem, npm is the largest ecosystem of open source libraries in the world.![](/assets/Non-blocking)
 
